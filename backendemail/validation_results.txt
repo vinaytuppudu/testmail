@@ -1,0 +1,5 @@
+VALID EMAILS:
+No valid emails.
+
+FAILED EMAILS:
+tiger@techfive.ai: Unable to connect to any SMTP server for this domain.
